@@ -125,26 +125,12 @@ and experiment with AI-powered solutions.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhav-87&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Madhav's GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+<img height="165" src="./profile/stats.svg" alt="Madhav's GitHub statistics">
+<img height="165" src="./profile/top-langs.svg" alt="Most used languages">
 
 <br>
 
 <img height="165" src="https://streak-stats.demolab.com?user=Madhav-87&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-
-</div>
-
-<br>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav-87/Madhav-87/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav-87/Madhav-87/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Madhav-87/Madhav-87/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake">
-</picture>
 
 </div>
 
