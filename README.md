@@ -1,25 +1,26 @@
+
 <div align="center">
 
 <h1>Hi, I'm Madhav Bondhare 👋</h1>
 
-<h3>Full Stack Developer &nbsp;|&nbsp; Exploring AI &amp; Backend Engineering</h3>
+<h3>Full Stack Developer | Exploring AI &amp; Backend Engineering</h3>
 
 <p>
-I build practical web applications, explore backend systems,<br>
-and experiment with AI-powered solutions.
+I build practical web applications, explore backend systems, and experiment with AI-powered solutions.
 </p>
 
 <p>
-  <a href="https://madhavbondhare.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/madhav-bondhare/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Madhav-87"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://madhavbondhare.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/madhav-bondhare/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Madhav-87"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+useful+web+applications;Exploring+Backend+Engineering;Learning+and+building+with+AI" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=280&height=35&lines=Full+Stack+Developer;Building+useful+web+applications;Exploring+Backend+Engineering;Learning+and+building+with+AI" alt="Typing SVG">
 
 </div>
 
 <br>
+
 
 ## 👨‍💻 About Me
 
@@ -79,11 +80,17 @@ Let's connect.
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/madhav-bondhare/"><img src="https://img.shields.io/badge/LinkedIn-Madhav_Bondhare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://madhavbondhare.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/Madhav-87"><img src="https://img.shields.io/badge/GitHub-Madhav--87-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/madhav-bondhare/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://madhavbondhare.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Madhav-87"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
+<br><br>
+
+<p>
 <sub>Building, learning, and improving — one commit at a time.</sub>
+</p>
 
 </div>
