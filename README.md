@@ -15,7 +15,7 @@ and experiment with AI-powered solutions.
   <a href="https://github.com/Madhav-87"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+useful+web+applications;Exploring+Backend+Engineering;Learning+and+building+with+AI" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+useful+web+applications;Exploring+Backend+Engineering;Learning+and+building+with+AI" alt="Typing SVG">
 
 </div>
 
@@ -54,83 +54,16 @@ and experiment with AI-powered solutions.
 
 <br>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Growth Tracker</h3>
-      <p align="center">
-        A full-stack goal and progress tracking app for managing daily, monthly,
-        and yearly goals with visual progress analytics.
-      </p>
-      <p align="center">
-        <b>React · Node.js · Express · MySQL · Chart.js</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Madhav-87/growth-tracker-fullstack">Source Code</a>
-        &nbsp;·&nbsp;
-        <a href="https://growthtracker.vercel.app/">Live Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 IntelliStudy</h3>
-      <p align="center">
-        An AI-powered study planner that turns a syllabus and exam date into a
-        personalized schedule, with a Pomodoro timer and PDF export.
-      </p>
-      <p align="center">
-        <b>React · Gemini API · Backend APIs · PDF</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Madhav-87/study-planner-app">Source Code</a>
-        &nbsp;·&nbsp;
-        <a href="https://intellistudy-app.vercel.app/">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Chatboat Lite</h3>
-      <p align="center">
-        A lightweight chatbot exploring a local AI model, API design,
-        and a modular application structure.
-      </p>
-      <p align="center">
-        <b>React · FastAPI · Ollama · Python</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Madhav-87/chatboat-lite">Source Code</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✅ Task Manager</h3>
-      <p align="center">
-        A full-stack task management app with JWT-based authentication
-        and task organization.
-      </p>
-      <p align="center">
-        <b>React · Node.js · Express · JWT</b>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Madhav-87/task-manager">Source Code</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="Madhav's GitHub statistics">
-<img height="165" src="./profile/top-langs.svg" alt="Most used languages">
+<img width="420" src="./profile/stats.svg" alt="Madhav's GitHub statistics">
+<img width="420" src="./profile/top-langs.svg" alt="Most used languages">
 
 <br>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Madhav-87&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<img width="420" src="https://streak-stats.demolab.com?user=Madhav-87&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 
 </div>
 
